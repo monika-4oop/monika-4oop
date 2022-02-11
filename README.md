@@ -1,6 +1,6 @@
 # Hello Techies 👋, I'm Monika Kumari
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Tech+Enthusiast;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=;Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 
 <h2> About Me </h2>
