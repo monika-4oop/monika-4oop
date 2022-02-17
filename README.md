@@ -10,13 +10,9 @@
 
 - 🌱 My learning wish-list includes **Generative art, WebGL and Three.js**
 
-- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
-
 - 💬 Ask me about **javascript, react and mongoDb**
 
 - 📫 You can reach me at **kmonika9407@gmail.com**
-
-- ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.**
 
 - 📄 Curriculum Vitae [Click here](https://drive.google.com/file/d/1oX3ggZgt60raClY_DwRHXYj7htVHoFqF/view?usp=sharing)
 
