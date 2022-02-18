@@ -1,6 +1,6 @@
 ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 
-<h1 align="center">Hi 👋, I'm Monika Kuamri</h1>
+<h1 align="center">Hi 👋, I'm Monika Kumari</h1>
 <p align="center">I am a Full Stack web developer. I love to do programming and also love to make exciting web apps. I had completed my B.tech with Computer Science and having a decent interest in coding which brings me to the Web development field and currently, I am learning REACT as a frontend library. I will love to contribute more in this field and also I will be love to face new challenges in the upcoming days.
 </p>
 
