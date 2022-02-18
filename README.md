@@ -38,8 +38,3 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monika&show_icons=true&locale=en&layout=compact" alt="monika" /></p> 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=monika&show_icons=true&locale=en" alt="monika" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monika&" alt="monika" /></p>
